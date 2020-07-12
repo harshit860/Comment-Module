@@ -8,6 +8,9 @@
   - Go to build folder
   - Run index.html with liverserver
 
+## LIVE LINK
+  - https://commentharshit.netlify.app/
+
 ## If the above step does not work --> npm install --> npm start 
   
   ![](https://i.imgur.com/07B97d0.png)
