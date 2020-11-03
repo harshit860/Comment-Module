@@ -1,5 +1,5 @@
 
-# Comments Module
+# React-Comments Component
 
 ## I built this project using on react,css.
 
